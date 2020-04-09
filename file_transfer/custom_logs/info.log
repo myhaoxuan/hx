@@ -1,0 +1,6 @@
+[2020-04-04 09:48:00,715][cn.myhaoxuan.configs.BaseConfig.<clinit>(BaseConfig.java:110)] - 加载基础配置信息【base.properties】信息失败！
+[2020-04-04 09:48:06,462][cn.myhaoxuan.component.UserCache.<clinit>(UserCache.java:47)] - 加载【users.properties】信息失败！
+[2020-04-04 10:00:57,722][cn.myhaoxuan.configs.BaseConfig.<clinit>(BaseConfig.java:110)] - 加载基础配置信息【base.properties】信息失败！
+[2020-04-04 10:04:32,285][cn.myhaoxuan.configs.BaseConfig.<clinit>(BaseConfig.java:110)] - 加载基础配置信息【base.properties】信息失败！
+[2020-04-04 10:04:58,623][cn.myhaoxuan.configs.BaseConfig.<clinit>(BaseConfig.java:110)] - 加载基础配置信息【base.properties】信息失败！
+[2020-04-04 10:06:22,911][cn.myhaoxuan.configs.BaseConfig.<clinit>(BaseConfig.java:110)] - 加载基础配置信息【base.properties】信息失败！
